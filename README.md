@@ -44,3 +44,14 @@ nodemon withCluster.js
 ![Screen Shot 1941-11-13 at 9 45 55 PM](https://user-images.githubusercontent.com/14003377/73611223-b2658580-4605-11ea-853b-0811770fd1e8.png)
 
 > transaction rate: 625 trans/sec
+
+
+### Understanding
+
+![Screen Shot 1941-11-13 at 9 51 05 PM](https://user-images.githubusercontent.com/14003377/73611327-ef7e4780-4606-11ea-9abc-9d123b175e73.png)
+![Screen Shot 1941-11-13 at 9 51 21 PM](https://user-images.githubusercontent.com/14003377/73611328-ef7e4780-4606-11ea-931d-4581f449a514.png)
+![Screen Shot 1941-11-13 at 9 53 09 PM](https://user-images.githubusercontent.com/14003377/73611329-ef7e4780-4606-11ea-9c3e-c7f584c4ae97.png)
+![Screen Shot 1941-11-13 at 9 53 32 PM](https://user-images.githubusercontent.com/14003377/73611330-f016de00-4606-11ea-93d7-0ea5250471fd.png)
+![Screen Shot 1941-11-13 at 9 53 48 PM](https://user-images.githubusercontent.com/14003377/73611331-f016de00-4606-11ea-9a3b-b035758e9b2f.png)
+![Screen Shot 1941-11-13 at 9 54 45 PM](https://user-images.githubusercontent.com/14003377/73611332-f016de00-4606-11ea-80d8-bbb08f71c46f.png)
+
