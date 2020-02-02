@@ -26,3 +26,21 @@ make install
 
 The following sends a 10 requests across 10 concurrent connections for benchmarking (no delay between requests).
 `siege -c 10 -r 10 -b http://localhost:3000/`
+
+Results:
+
+#### Running server without forking
+
+nodemon nodemon withoutCluster.js
+
+![Screen Shot 1941-11-13 at 9 44 54 PM](https://user-images.githubusercontent.com/14003377/73611212-9b269800-4605-11ea-9592-a497585dc57d.png)
+
+> transaction rate: 454.55 trans/sec
+
+#### Running server with forking
+
+nodemon nodemon withCluster.js
+
+![Screen Shot 1941-11-13 at 9 45 55 PM](https://user-images.githubusercontent.com/14003377/73611223-b2658580-4605-11ea-853b-0811770fd1e8.png)
+
+> transaction rate: 625 trans/sec
