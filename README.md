@@ -27,7 +27,7 @@ make install
 The following sends a 10 requests across 10 concurrent connections for benchmarking (no delay between requests).
 `siege -c 10 -r 10 -b http://localhost:3000/`
 
-Results:
+## Results:
 
 #### Running server without forking
 
