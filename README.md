@@ -9,7 +9,7 @@ Benchmark Node Server using Siege
   `curl -C - -O http://download.joedog.org/siege/siege-latest.tar.gz`
 - Extract the tarball<br>
   `tar -xvf siege-latest.tar.gz`
-- Change directories to the extracted directory (again, currently siege-2.70)
+- Change directories to the extracted directory (again, currently siege-2.70) <br>
   `cd siege-2.70/`
 - Run the following commands (one at a time) to build and install siege. If you have an older version of siege read the INSTALL file for more instructions.<br>
 
@@ -19,7 +19,7 @@ make
 make install
 ```
 
-- Check
+- Check <br>
   `siege` <br>
 
 ### Benchmarking with siege
