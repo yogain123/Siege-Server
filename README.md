@@ -31,7 +31,7 @@ The following sends a 10 requests across 10 concurrent connections for benchmark
 
 #### Running server without forking
 
-nodemon withoutCluster.js
+`nodemon withoutCluster.js`
 
 ![Screen Shot 1941-11-13 at 9 44 54 PM](https://user-images.githubusercontent.com/14003377/73611212-9b269800-4605-11ea-9592-a497585dc57d.png)
 
@@ -39,7 +39,7 @@ nodemon withoutCluster.js
 
 #### Running server with forking
 
-nodemon withCluster.js
+`nodemon withCluster.js`
 
 ![Screen Shot 1941-11-13 at 9 45 55 PM](https://user-images.githubusercontent.com/14003377/73611223-b2658580-4605-11ea-853b-0811770fd1e8.png)
 
